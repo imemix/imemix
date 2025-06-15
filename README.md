@@ -3,8 +3,7 @@
 
 <h1 align="center" >Hi, I'm <a colour="save me from my nightmare of a life" href="https://github.com/imemix">Emix (E)</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
-<p align="center"> <b> I use <sup> JAVA </sup> and <sup> JSON </sup> </b> </p>
-<p align="center"> <b> IM A BEGINNER WITH <suB> JAVA </suB> AND <suB> JSON </suB> </b> </p>
+<p align="center"> <b> I use <sup> Python </sup> and <sup> HTML </sup> </b> </p>
   <p align="center">Joined GitHub</p>
   <p align="center">on November 5, 2019</p>
 <h1></h1>
