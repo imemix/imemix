@@ -1,14 +1,26 @@
-<h1 align="center" >Hi, I'm <a colour="save me from my nightmare of a life" href="https://github.com/imemix">Emix (E)</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ (❁´◡`❁)</h1>
+
+
+<h1 align="center" >
+    Hi, I'm <a colour="save me from my nightmare of a life" href="https://github.com/imemix">Emix (E)</a>!</h1>
+
+
+<p align="center">
+    Welcome to my GitHub profile~ (❁´◡`❁)
+</p>
+
+
+    
+<p align="center">$\textcolor{blue}{\text{Currently working on EMinstaller for Arch Linux}}$ </p>
+
 
 <p align="center">
     <a href="https://imemix.github.io/">
         <img src="https://imemix.github.io/images/eminstaller.png" width="125"/>
     </a>
 </p>
-
+    </div>
 <p align="center">
-    <a  href="https://skillicons.dev">
-      <img  src="https://skillicons.dev/icons?i=html,css,docker,arch,py,flask,linux,windows" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,docker,arch,py,flask,linux,windows" />
     </a>
 </p>
