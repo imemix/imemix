@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://imemix.github.io/">
-        <img src="https://imemix.github.io/images/eminstallerlogo.png" width="125"/>
+        <img src="https://imemix.github.io/images/eminstaller.png" width="125"/>
     </a>
 </p>
 
