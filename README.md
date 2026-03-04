@@ -3,12 +3,12 @@
 
 <p align="center">
     <a href="https://imemix.github.io/">
-        EMInstaller for archlinux
+        <img src="https://imemix.github.io/images/eminstallerlogo.png" width="125"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,docker,arch,py,flask,linux,windows," />
+    <a  href="https://skillicons.dev">
+      <img  src="https://skillicons.dev/icons?i=html,css,docker,arch,py,flask,linux,windows," />
     </a>
 </p>
