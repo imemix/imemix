@@ -1,7 +1,6 @@
 # About Me:
 Hi! I’m a 30+ year-old developer who enjoys building playful, unconventional digital experiences. I work with JavaScript, Python, SQLite, Flask, HTML5, and CSS3 to create quirky games and offbeat websites.
 
-I’m currently developing Project HIPPO, a Python/Flask web chat application built with Jinja templating. focused on real-time interaction, lightweight design, and a touch of personality.
 
 
 ## Socials:
